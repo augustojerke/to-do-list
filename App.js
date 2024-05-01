@@ -1,20 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View className="flex-1 py-16 px-10 bg-slate-800">
+      <Text className="text-white text-2xl font-bold">Lista de Tarefas</Text>
+      <Text className=" text-slate-200 mt-2 text-sm">Adicione uma tarefa na lista</Text>
+      <StatusBar style="inverted"/>
     </View>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
