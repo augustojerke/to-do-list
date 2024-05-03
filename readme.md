@@ -1,0 +1,6 @@
+# To-Do-List com React-Native 📜
+
+Lista de Tarefas feita com React-Native, utilizando Nativewind.
+Atividade Realizada para a Formação React-Native da Rocketseat.
+
+Download APK: https://job-artifacts.eascdn.net/production/ab284de9-6f94-4301-ab5b-e97cb31dcf8b/11afb80f-9c27-473e-b70b-952d839f8e62/application-dcf2cdda-2538-4575-9438-18a45e6cdf57.apk?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20240503%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240503T034820Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=69652c8a0464eef0fb71815ec8d92c548a3b51e41a3a44bd48df2b8a507f7c805d65a197df3d9489a021df1cdcf7e75365557dfc8a8fcb0205a5f1cf0d0748baaf307886bcf411a0912ba788bffa600c31435171b3214d12ca323bcfe02407b191c64271cfed31bf5b85a4177fe8ca6c01c226b11535b5a4235899f4caeccccece6cb204c03bc976af4968c1fa7b1ce5e65055e776b29d2d7f85e8c4f7100f7deb414973ba8a4807d8e251a62a6c86cd793bf4b9c82459629cae7da6f1458ca5d5402cf70d226efbf73ddd345d993d2e053396562ee349d76718137d268a2dc094077ccc6561a710558dc71e657a58da0a0da3238e43cb3eee33076ee2ff29cb
